@@ -12,4 +12,4 @@ echo "<hr>";
 // memanggilnya lagi
 perkenalan();
 
-echo "<strong><i>By fachri rizki"
+
